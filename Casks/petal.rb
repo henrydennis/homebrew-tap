@@ -1,6 +1,6 @@
 cask "petal" do
-  version "0.5.0"
-  sha256 "e10375bd5331f48d30eee16bba60935b6ec4f500029364d8ab3977996d2c673c"
+  version "0.5.1"
+  sha256 "11f6fc0653d1b32223af38dbd294cc3f04d834e11235233c75386dca89275339"
 
   url "https://github.com/henrydennis/petal/releases/download/v#{version}/Petal-#{version}.dmg"
   name "Petal"
